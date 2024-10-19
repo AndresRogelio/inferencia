@@ -35,6 +35,9 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor crea un fork 
 
 ## Referencias
 - `Tidyverse`: [CRAN](https://cran.r-project.org/web/packages/tidyverse/index.html)
-- `ggplot2`: [CRAN](https://cloud.r-project.org/web/packages/ggplot2/index.html)
+- `ggstatsplot`: [GitHub](https://github.com/IndrajeetPatil/ggstatsplot)
 - `car`: [CRAN](https://cran.r-project.org/web/packages/car/index.html)
 - `FSA`: [CRAN](https://cloud.r-project.org/web/packages/FSA/index.html)
+- `report`: [CRAN](https://cran.r-project.org/web/packages/report/index.html)
+- `UsingR`: [GitHub](https://github.com/ckb/UsingR)
+- `multcomp`: [CRAN](https://cran.r-project.org/web/packages/multcomp/index.html)
