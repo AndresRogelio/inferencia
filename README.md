@@ -1,6 +1,6 @@
 # Análisis Estadístico de Datos de Salud y Deporte
 
-Este proyecto realiza un análisis estadístico sobre datos de presión sanguínea y levantamiento de pesas utilizando técnicas como la prueba t de Student y el análisis de varianza (ANOVA). El objetivo es comparar las medias de diferentes grupos y evaluar si existen diferencias significativas en las medidas.
+Este proyecto realizó un análisis estadístico sobre datos de presión sanguínea y levantamiento de pesas utilizando técnicas como la prueba t de Student y el análisis de varianza (ANOVA). El objetivo es comparar las medias de diferentes grupos y evaluar si existen diferencias significativas en las medidas.
 
 ## Contenido del Proyecto
 
