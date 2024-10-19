@@ -20,7 +20,7 @@ install.packages(c("tidyverse", "report", "UsingR", "ggstatsplot", "car", "FSA",
 ## Uso
 1. Abre RStudio y carga el script principal
    ```r
-   source("tu_script.R")
+   source("inferencia.R")
    ```
 2. Asegúrate de tener el archivo `Halterofilia.csv` en el directorio correcto, según se indique en el script.
 3. Ejecuta las secciones del código según se requiera para realizar los análisis deseados.
