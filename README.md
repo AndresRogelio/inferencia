@@ -26,9 +26,9 @@ install.packages(c("tidyverse", "report", "UsingR", "ggstatsplot", "car", "FSA",
 3. Ejecuta las secciones del código según se requiera para realizar los análisis deseados.
 
 ## Resultados
-- Prueba t de Student: Los resultados indican que no hay evidencia suficiente para concluir que las medias de presión sanguínea son diferentes entre los métodos de evaluación.
-- Análisis de Levantamiento de Pesas: Se encontró evidencia suficiente para concluir que hay diferencias significativas en los pesos levantados entre los géneros.
-- ANOVA: Se realizaron comparaciones múltiples utilizando la prueba de Tukey y se verificaron los supuestos necesarios para el análisis.
+- **Prueba t de Student**: Los resultados indican que no hay evidencia suficiente para concluir que las medias de presión sanguínea son diferentes entre los métodos de evaluación.
+- **Análisis de Levantamiento de Pesas**: Se encontró evidencia suficiente para concluir que hay diferencias significativas en los pesos levantados entre los géneros.
+- **ANOVA**: Se realizaron comparaciones múltiples utilizando la prueba de Tukey y se verificaron los supuestos necesarios para el análisis.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas colaborar, por favor crea un fork del repositorio y envía un pull request con tus mejoras o sugerencias.
